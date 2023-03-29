@@ -16,9 +16,6 @@ Data were collected using Plant Root Simulator (PRS) probes for a drought/grazin
 - <b>Intersect</b>
 - <b>Hillshade</b>
 
-<h2>Software Used </h2>
-
-- <b>QGIS</b>
 
 <h2>Faceted plots for showing nutrient values according to differnt treatments. </h2>
 

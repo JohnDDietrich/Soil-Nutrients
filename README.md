@@ -20,7 +20,7 @@ Data were collected using Plant Root Simulator (PRS) probes for a drought/grazin
 <h2>Faceted plots for showing nutrient values according to differnt treatments. </h2>
 
 <p align="center">
-Launch the utility: <br/>
+
 <img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_rasterclassification.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

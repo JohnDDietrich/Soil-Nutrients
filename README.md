@@ -17,7 +17,7 @@ Data were collected using Plant Root Simulator (PRS) probes for a drought/grazin
 - <b>Evaluate Correlations</b>
 
 <h2> Code  </h2>
-<img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/PRS_22.ipynb" height="80%" width="80%" alt= "from jupyter notebook"/>
+<img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/PRS_22.ipynb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Faceted plots for showing nutrient values according to differnt treatments. </h2>
 

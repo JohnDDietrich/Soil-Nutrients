@@ -20,12 +20,12 @@ Data were collected using Plant Root Simulator (PRS) probes for a drought/grazin
 <h2>Faceted plots for showing nutrient values according to differnt treatments. </h2>
 
 <p align="center">
-
+Grazing vs Precipitation  <br/>
 <img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/GrzVsPrecip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a 1km buffer around water features  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_buffering.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Grazing vs Precipitation for 2020 <br/>
+<img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/GrzVsPrecip20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Find intersection between water buffer and 1500+ elevation polygons <br/>

@@ -11,11 +11,13 @@ Data were collected using Plant Root Simulator (PRS) probes for a drought/grazin
 
 <h2>Techniques Used</h2>
 
-- <b>Raster classification</b> 
-- <b>Buffer</b>
-- <b>Intersect</b>
-- <b>Hillshade</b>
+- <b>Merge files</b> 
+- <b>Rename columns with a dictionary</b>
+- <b>Seaborn plotting</b>
+- <b>Evaluate Correlations</b>
 
+<h2> Code  </h2>
+<img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/PRS_22.ipynb" height="80%" width="80%" alt= "from jupyter notebook"/>
 
 <h2>Faceted plots for showing nutrient values according to differnt treatments. </h2>
 
@@ -32,8 +34,7 @@ Find intersection between water buffer and 1500+ elevation polygons <br/>
 <img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_intersect.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add in hillshade for visual effect  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_map.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <!--
  ```diff

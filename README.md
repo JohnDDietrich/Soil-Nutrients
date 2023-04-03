@@ -1,11 +1,9 @@
-# Soil-Nutrients
-
-<h1>Soil Nutrient Availablity Visualization</h1>
+<h1>Plotting complex data using Python</h1>
 
  
 
 <h2>Description</h2>
-Data were collected using Plant Root Simulator (PRS) probes for a drought/grazing experiment in rangelands of northeastern Wyoming.  Those data were cleaned up and plotted using Python/Pandas.
+Plant Root Simulator (PRS) probes wer used to collect nutrient availablity data for a project I worked on looking at effects of drought and grazing in rangelands.  I cleaned up and plotted this data using Python/Pandas in a Jupyter notebook.
 <br />
 
 
@@ -17,7 +15,7 @@ Data were collected using Plant Root Simulator (PRS) probes for a drought/grazin
 - <b>Evaluate Correlations</b>
 
 <h2> Code  </h2>
-<img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/PRS_22.ipynb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/PRS_22.ipynb" height="80%" width="80%" alt="Jupyter Notebook"/>
 
 <h2>Faceted plots for showing nutrient values according to differnt treatments. </h2>
 
@@ -30,8 +28,7 @@ Grazing vs Precipitation for 2020 <br/>
 <img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/GrzVsPrecip20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Find intersection between water buffer and 1500+ elevation polygons <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_intersect.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 

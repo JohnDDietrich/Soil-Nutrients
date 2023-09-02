@@ -20,7 +20,6 @@ Plant Root Simulator (PRS) probes wer used to collect nutrient availablity data 
 <h2>Faceted plots for showing nutrient values according to differnt treatments. </h2>
 
 <p align="center">
-Example plots showing overall realtionship Grazing vs Precipitation  <br/>
 <img src="https://github.com/JohnDDietrich/Soil-Nutrients/blob/main/GrzVsPrecip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
